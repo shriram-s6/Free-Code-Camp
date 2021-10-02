@@ -1,1 +1,1 @@
-Data Analysis with Python projects
+Exploratory Data Analysis
